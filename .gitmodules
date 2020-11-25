@@ -18,3 +18,8 @@
 	path = _gallery
 	url = https://github.com/c15pati/_gallery.git
 	branch = master
+[submodule "images"]
+	path = images
+	url = https://github.com/c15pati/images.git
+	branch = master
+
