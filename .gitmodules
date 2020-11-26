@@ -19,3 +19,6 @@
 	url = https://github.com/c15pati/images.git
 	branch = letsee2
 
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/c15pati/_gallery.git
